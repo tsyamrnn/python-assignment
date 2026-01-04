@@ -1,0 +1,6 @@
+Class average: 64.0
+Grade frequencies:
+A: 3
+B: 3
+C: 3
+E: 1

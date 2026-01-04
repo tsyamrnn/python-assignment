@@ -1,0 +1,2 @@
+Text files can be opened using the open function in Python.
+Any opened file should be closed by the close function.
